@@ -21,8 +21,8 @@ html{
 
 .hamburguer {
   /* background-color: red; */
-  width: 2rem;
-  height: 2rem;
+  width: 5rem;
+  height: 5rem;
   position: fixed;
   z-index: 100;
   right: 2rem;
@@ -34,8 +34,8 @@ html{
 }
 .profile-img {
   position: absolute;
-  top: 20%;
-  right: 5%;
+  top: 30%;
+  right: 30%;
   width: 150px;
   height: 150px;
   border-radius: 50%; /* Torna a imagem circular */
