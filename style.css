@@ -36,8 +36,8 @@ html{
   position: absolute;
   top: 30%;
   right: 30%;
-  width: 150px;
-  height: 150px;
+  width: 350px;
+  height: 350px;
   border-radius: 50%; /* Torna a imagem circular */
   overflow: hidden; /* Garante que apenas o conteúdo dentro do círculo seja visível */
   border: 3px solid #fff; /* Adiciona uma borda opcional */
